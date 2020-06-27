@@ -48,6 +48,7 @@ const referenc = (arr) => {
     arr.push(i);
   }
 };
+referenc(array);
 console.log(array);
 
 // 3. feladat összegzés tétele
